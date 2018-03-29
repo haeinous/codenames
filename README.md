@@ -27,7 +27,7 @@ Here are some examples where the program did good:
 
 Here are some examples where I was disappointed:
 * [__octopus__, __teacher__]: whose, great, young, female, male (as a human, I would've used "biology" as the hint)
-* [__doctor__, __back__]: nothing (I would've gone with "spine," "orthopedics," or "chiropractor.")
+* [__doctor__, __back__]: didn't turn up anything (I would've gone with "spine," "orthopedics," or "chiropractor.")
 * [__piano__, __teacher__]: lessons, students, conservatory, studied, ballet, teaching, old, excellent, beloved, wonderful (I would've gone with "music")
 
 ## What's next?
