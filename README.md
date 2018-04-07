@@ -17,6 +17,9 @@ Now you're all set to start using the program. Here's what you need to do to get
 * Type `python codenames.py` and press enter.
 * Follow the instructions on that appear on your console and you're all set!
 
+If you're having trouble with Python versions locally, get started fast with:
+* `docker-compose run codenames`
+
 ### Some examples
 The program only works sometimes, and generally when you have fewer words (two works best).
 

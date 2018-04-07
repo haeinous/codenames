@@ -1,0 +1,4 @@
+codenames:
+  build: .
+  volumes:
+    - .:/usr/src/app
